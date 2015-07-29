@@ -124,6 +124,10 @@ img {
     width: 125px;
 }
 
+.featured {
+    display: flex;
+    flex-wrap: wrap;
+}
 .appify {
     text-align: center;
     float: right;
